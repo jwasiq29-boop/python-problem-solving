@@ -12,8 +12,6 @@ def guess_number():
     return guess
 
 def guess_check():
-
-
     check = guess_number()
 
     while check != secret_number:
