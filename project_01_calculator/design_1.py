@@ -25,11 +25,7 @@ while True:
                 num_2 = int(input("enter the second number: "))
             print(num_1 ,"/" ,num_2 , "=" , num_1 / num_2)
             break
-        
 
-
-
-        
                 
 
 
